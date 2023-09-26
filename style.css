@@ -5,11 +5,11 @@
     font-family: sans-serif;
     color: white;
 }
-/* .name{
-    font-size: 25px;
+.marquee{
     color: aqua;
-
-} */
+    font-size: 25px;
+    margin-bottom: 60%;
+}
 body{
     background-color: rgb(32, 31, 31);
     display: flex;
